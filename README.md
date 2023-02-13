@@ -8,4 +8,5 @@ https://colab.research.google.com/gist/SAMashiyane/27fcd87aaf90dbd482137aa35ad85
 
 
 ![alt text](https://github.com/SAMashiyane/organophosphate_pro/blob/main/Organophosphate%20Poisoning.png)
+![alt text](https://github.com/SAMashiyane/organophosphate_pro/blob/main/Organophosphate%20Poisoning1.png)
 
